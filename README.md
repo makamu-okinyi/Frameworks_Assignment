@@ -1,4 +1,8 @@
 CORD-19 Data Analysis Project
+
+META DATA CSV DIDNT WORK ON MY PC  SO I USED THIS INSTEAD
+
+
 📋 Project Overview
 This project provides a comprehensive analysis of the CORD-19 (COVID-19 Open Research Dataset) metadata, exploring patterns in COVID-19 research publications through data exploration, visualization, and an interactive web application.
 
@@ -18,6 +22,7 @@ Extract key themes from paper titles using text analysis
 
 Create an interactive web application for data exploration
 
+
 📊 Dataset Information
 The CORD-19 dataset contains metadata for COVID-19 and coronavirus-related research papers. Key columns include:
 
@@ -35,8 +40,10 @@ source_x: Data source
 
 doi: Digital Object Identifier
 
-🏗️ Project Structure
+
 Reflection and Documentation
+
+
 1. Project Overview
 
 This project explored the CORD-19 dataset, a collection of COVID-19 research papers. The goal was to perform data cleaning, analysis, and visualization using Python and Streamlit. The main objectives were to understand data trends, identify the most active research sources, and build an interactive app for exploring the dataset.
